@@ -1,16 +1,17 @@
-# pemrograman_mobile
+## Praktikum Pemrograman Mobile
+- Ramdan Rahmat Hidayat
+- NIM : 2006127
+- Kelas D
 
-A new Flutter project.
+## Cats Apps
 
-## Getting Started
+Clone Repository `git clone https://github.com/ramdhan99/Cats-Apps.git`
 
-This project is a starting point for a Flutter application.
+`flutter pub get`
 
-A few resources to get you started if this is your first Flutter project:
+`flutter pub run`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+`flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<div align='center'> Created with API <a href='https://api-ninjas.com/api/cats'>this</a></div>
